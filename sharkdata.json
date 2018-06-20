@@ -1,0 +1,72 @@
+{
+	"locations": [
+		{
+			"id": 1,
+			"location": "Shipwreck Cove",
+			"image": "https://images.unsplash.com/photo-1487252333087-c353573e2b7c",
+			"city": "Ft. Lauderdale",
+			"state": "FL",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse luctus velit non purus hendrerit volutpat.",
+			"rating": 4,
+			"depth": 45,
+			"temperature": 74,
+			"lessons": "Tue - Thu" 			 
+		},
+		{
+			"id": 2,
+			"location": "Shark Sanctuary",
+			"image": "https://images.unsplash.com/photo-1502998732392-615e9b445fa4",
+			"city": "Miami",
+			"state": "FL",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse luctus velit non purus hendrerit volutpat.",
+			"rating": 3,
+			"depth": 39,
+			"temperature": 80,
+			"lessons": "Mon - Fri" 				 
+		},	
+		{
+			"id": 3,
+			"location": "Turtle Migration",
+			"image": "https://images.unsplash.com/photo-1518732262971-3b123bbb1f95",
+			"city": "Daytona Beach",
+			"state": "FL",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse luctus velit non purus hendrerit volutpat.",
+			"rating": 5,
+			"depth": 50,
+			"temperature": 82,
+			"lessons": "Tue - Sat" 				 
+        }		
+    ],
+	"gallery": [
+		{
+			"id": 1,
+			"image": "https://images.unsplash.com/photo-1512781421346-e8ff1805e3ab",
+			"caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"author": "Smith, John"	 
+		},
+		{
+			"id": 2,
+			"image": "https://images.unsplash.com/photo-1502998732392-615e9b445fa4",
+			"caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"author": "Smith, John"				 
+		},	
+		{
+			"id": 3,
+			"image": "https://images.unsplash.com/photo-1518732262971-3b123bbb1f95",
+			"caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"author": "Smith, John"			 
+        },	
+		{
+			"id": 4,
+			"image": "https://images.unsplash.com/photo-1487252333087-c353573e2b7c",
+			"caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"author": "Smith, John"	 
+		},
+		{
+			"id": 5,
+			"image": "https://images.unsplash.com/photo-1517881096908-d5f82bbec686",
+			"caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"author": "Smith, John"				 
+		}			
+    ]	
+}
